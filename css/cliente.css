@@ -1,0 +1,22 @@
+* {
+    text-align: center;
+}
+h1 {
+    text-decoration: underline;
+}
+th {
+    background-color: rgba(167, 195, 247, 0.788);
+    border: 2px black solid;
+
+}
+table {
+    background-color: rgba(207, 238, 238, 0.822);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border-color: black;
+    border-width: 5px;
+    border-collapse: collapse;
+    margin-left: 15%;
+}
+td {
+    border: 2px black solid;
+}
